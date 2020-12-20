@@ -16,7 +16,7 @@ export default ({videos , onVideoSelect}) => {
 
     return (
         <Grid container spacing={10}>
-            {listOfVideos}
+            {listOfvids}
         </Grid>
     );
 

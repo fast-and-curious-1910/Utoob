@@ -1,0 +1,22 @@
+{
+  "name": "utoob",
+  "version": "1.0.0",
+  "description": "Utoob. The next gen youtube!",
+  "main": "null",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fast-and-curious-1910/Utoob.git"
+  },
+  "keywords": [
+    "Utoob",
+    "Youtube"
+  ],
+  "author": "Palash Sureka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fast-and-curious-1910/Utoob/issues"
+  },
+  "homepage": "https://github.com/fast-and-curious-1910/Utoob#readme"
+}

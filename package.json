@@ -38,7 +38,7 @@
   "homepage": "https://github.com/fast-and-curious-1910/Utoob#readme",
   "dependencies": {
     "@material-ui/core": "^4.11.2",
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "^4.0.1"
